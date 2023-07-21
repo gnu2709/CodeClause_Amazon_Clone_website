@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeClause_Amazon_Clone_website/static/css/main.cfbe770e.css",
+    "main.js": "/CodeClause_Amazon_Clone_website/static/js/main.e272b284.js",
+    "index.html": "/CodeClause_Amazon_Clone_website/index.html",
+    "main.cfbe770e.css.map": "/CodeClause_Amazon_Clone_website/static/css/main.cfbe770e.css.map",
+    "main.e272b284.js.map": "/CodeClause_Amazon_Clone_website/static/js/main.e272b284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbe770e.css",
+    "static/js/main.e272b284.js"
+  ]
+}
